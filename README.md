@@ -37,9 +37,7 @@ A classic two-player Tic Tac Toe game built with HTML, CSS, and JavaScript. Play
 
 ## 🚀 How to Run
 
-1. Clone this repository
-2. Open `index.html` in any browser
-3. Start playing with a friend!
+Just click the link https://rock-paper-scissors-kohl-sigma.vercel.app/
 
 ## 📁 Project Structure
 tic-tac-toe/
